@@ -4,7 +4,7 @@
 
 I'm Julian, a full stack developer 💻 currently working at [INNOV8iON](https://innov8ion.nl/) 
 
-I have a passion for clean code, ABAP, teaching, SAPUI5, reading and Javascript
+I have a passion for clean code, ABAP, teaching, SAPUI5, reading and Javascript ... and of course git :)
 
 My current side project is [congenial-potato](https://github.com/JulianKuipers/congenial-potato)
 
